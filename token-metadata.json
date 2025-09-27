@@ -1,8 +1,8 @@
 {
-  "name": "My Awesome Token",
-  "symbol": "MAT",
+  "name": "ELMARSON",
+  "symbol": "ELMRS",
   "description": "A revolutionary utility token built on Solana with LaunchLab integration, featuring bonding curves, automated vesting, and seamless AMM migration.",
-  "image": "https://via.placeholder.com/512x512.png?text=MAT",
+  "image": "https://yavuzcelal.github.io/mycoin/Mars.png",
   "external_url": "https://your-website.com",
   "animation_url": "",
   "extensions": {
@@ -45,7 +45,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://via.placeholder.com/512x512.png?text=MAT",
+        "uri": "https://yavuzcelal.github.io/mycoin/Mars.png",
         "type": "image/png"
       }
     ],
