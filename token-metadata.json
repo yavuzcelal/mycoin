@@ -1,0 +1,61 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "description": "A revolutionary utility token built on Solana with LaunchLab integration, featuring bonding curves, automated vesting, and seamless AMM migration.",
+  "image": "https://via.placeholder.com/512x512.png?text=MAT",
+  "external_url": "https://your-website.com",
+  "animation_url": "",
+  "extensions": {
+    "website": "https://your-website.com",
+    "twitter": "https://twitter.com/yourhandle",
+    "discord": "https://discord.gg/yourinvite",
+    "telegram": "https://t.me/yourchannel",
+    "github": "https://github.com/yourusername/yourproject"
+  },
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Launch Method",
+      "value": "LaunchLab"
+    },
+    {
+      "trait_type": "Curve Type",
+      "value": "ConstantCurve"
+    },
+    {
+      "trait_type": "Migration Type",
+      "value": "AMM"
+    },
+    {
+      "trait_type": "Total Supply",
+      "value": "25,000,000,000"
+    },
+    {
+      "trait_type": "Vesting",
+      "value": "8% Locked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://via.placeholder.com/512x512.png?text=MAT",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3BuEhtBUiksX9Kzf5bo2gaLHSrYA7h8bPmRA8vyfr67H",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}
